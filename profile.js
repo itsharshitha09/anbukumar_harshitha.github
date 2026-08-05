@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a high school student interested in biology, medicine, and understanding how diseases such as cancer develop and change over time. Through DREAM-High, I hope to learn how researchers use biological data, statistics, and computer-based tools to answer important scientific questions. I am especially excited to explore how computational biology can be used to study gene expression, compare cancer cells, and identify patterns that may help scientists better understand disease progression and treatment.",
 
   /*
   Optional photo:
@@ -62,7 +62,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "Comparing logistic and Gompertz differential-equation models using Lewis lung carcinoma data to investigate which model better captures how tumors grow and slow over time.",
     url: ""
   },
 
@@ -73,7 +73,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/itsharshitha09"
     }
   ]
 };
