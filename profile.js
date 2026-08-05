@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -39,11 +39,19 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/DREAM-High/1446545"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/its_harshitha09/1448041"
+    },
+    {
+      title: "TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/its_harshitha09/1448043"
+    },
+    {
+      title: "Gene Expression Heatmaps",
+      url: "https://rpubs.com/its_harshitha09/1449670"
     }
   ],
 
