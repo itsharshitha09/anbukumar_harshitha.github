@@ -73,7 +73,7 @@ const studentProfile = {
   github: [
     {
     title: "Final Project Presentation PDF",
-    url: "final-project-2026.pdf"
+    url: "ISB-Final-Paper.pdf"
     },
     {
       title: "My GitHub Profile",
