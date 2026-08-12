@@ -63,7 +63,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "Comparing logistic and Gompertz differential-equation models using Lewis lung carcinoma data to investigate which model better captures how tumors grow and slow over time.",
-    url: "final-project-2026.pdf"
+    url: "presentation.pdf"
   },
 
   /*
@@ -71,6 +71,10 @@ const studentProfile = {
   You can link to your GitHub profile or specific project repositories.
   */
   github: [
+    {
+    title: "Final Project Presentation PDF",
+    url: "final-project-2026.pdf"
+    },
     {
       title: "My GitHub Profile",
       url: "https://github.com/itsharshitha09"
