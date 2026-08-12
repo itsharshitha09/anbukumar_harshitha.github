@@ -63,7 +63,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "Comparing logistic and Gompertz differential-equation models using Lewis lung carcinoma data to investigate which model better captures how tumors grow and slow over time.",
-    url: ""
+    url: "final-project-2026.pdf"
   },
 
   /*
